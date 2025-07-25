@@ -6,7 +6,7 @@ the project is similar to a real life data science task, although I would argue 
 ## API:
 initially I used:
   https://www.rentcast.io/api
-  https://www.rentcast.io/api
+  https://www.datafiniti.co/data/property-data
 
 but after finding out the unavailablility and unreliability of the datasets, despite doing my best cleaning them, 
 I used the following instead:
