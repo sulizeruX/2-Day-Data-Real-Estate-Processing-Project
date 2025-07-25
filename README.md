@@ -25,5 +25,5 @@ I used the following instead:
 9. Deleted and dropped unwanted data.
 
 ## Modeling
-Used Decision Tree, Random Forest, and XGBoost regression modeling algorithms.
-Random Forest gave the best results
+* I chose Decision Tree, Random Forest, and XGBoost regression modeling algorithms
+* Random Forest gave the best results
