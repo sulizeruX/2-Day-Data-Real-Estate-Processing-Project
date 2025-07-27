@@ -13,6 +13,11 @@ I used the following instead:
 * https://www.attomdata.com/solutions/property-data-api/
 * Local API(generated dataset)
 
+## Compramise
+* Using my initial 2 Datasets, even after cleaning the combined dataset, I wasn't provided with the data required for my models to run at high accuracy, there are too many null values, and the data is too random and unrelated. It would have taken more than a week to fix if I did use such dataset for my assignment
+
+* I used another dataset from a different API as a compramise to this, Although it was harder to access than my initial API datasets, It was at least provided and more complete in comparison
+
 ## Preprocessing
 1. Ran the API and extracted property data in JSON format.
 2. genrated dummy data
